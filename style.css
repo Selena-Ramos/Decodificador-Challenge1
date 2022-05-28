@@ -1,0 +1,119 @@
+* {
+    font-family:"Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.imgfundo {
+    background-image: url(./imagens/abstrato.png);
+}
+
+.logoalura {
+    text-align: left;
+    padding-left: 230px;
+}
+
+.main {
+    display: flex;
+    margin-left: 50px;
+}
+
+.titulo_principal {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:30px;
+    color:darkorange;
+    text-align:center;
+}
+
+.titulo_secundario {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px;
+    color:white;
+    text-align:center;
+}
+
+.input-texto {  
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;    
+    border-radius: 10px;
+    border: 2px solid blue;
+}
+
+.mensagem {
+    position: absolute;
+    top: 225px;
+    left: 840px;
+    width: 350px;
+    height: 944x;
+    border-radius: 10px;
+    border: 2px solid blue;
+    background-image: url(./imagens/mulher.png);
+    background-position: center;
+    background-repeat: no-repeat;  
+    
+}
+
+.informacao { 
+    text-align: left;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    color: darkred;
+    margin-top: 5px;
+
+}
+
+.encriptar {
+    background-color: darkorange;
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid darkorange;
+   
+}
+
+.desencriptar {
+    margin-left: 30px;
+    background-color: white;
+    color: darkorange;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid white;
+
+}
+
+.copy {
+    margin-left: 180px;
+    margin-top: 360px;
+    background-color: white;
+    color: darkorange;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+.footer {
+    position:absolute;
+    top: 610px;
+    width: 850px;
+    height:944x;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+
+.footer1 {
+    position:absolute;
+    top: 624px;
+    width: 850px;
+    height:944x;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
